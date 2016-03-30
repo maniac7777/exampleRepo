@@ -9,7 +9,7 @@
 </head>
 <body>
 
-Test Page~!!
+Test Page~!! test test
 
 <%
 	response.sendRedirect("board_write.nhn");
