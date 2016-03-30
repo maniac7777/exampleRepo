@@ -8,9 +8,9 @@
 	<title>index.jsp</title>
 </head>
 <body>
-adfasdfasdfs
+adfasd
 Test Page~!! test test
-asdfasfasdfsdf
+
 <%
 	response.sendRedirect("board_write.nhn");
 %>
