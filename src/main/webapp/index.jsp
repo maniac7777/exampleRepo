@@ -10,7 +10,7 @@
 <body>
 
 Test Page~!! test test
-
+asdfasfasdfsdf
 <%
 	response.sendRedirect("board_write.nhn");
 %>
